@@ -34,7 +34,7 @@
 
 ```
 幫我把這個 repo clone 下來，然後開啟資料夾：
-https://github.com/___/PersonalOS-Starter
+https://github.com/Tkkjie/77PmOS
 ```
 
 Claude 會幫你下載並開啟。
